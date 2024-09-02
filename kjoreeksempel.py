@@ -16,4 +16,8 @@ python3 kjoreeksempel.py
 x1 = 0.33, x2 = 0.50
 """
 
+#Ovenfor er det eksempel på kjøreeksempel for å finne røttene til en andregradslikning.
+# Vi bare fører inn det vi skriver inn i terminalen og kopierer det inn i filen.
+
+
 
